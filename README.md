@@ -17,18 +17,19 @@
 
 ---
 
-
-
 ### Задание 2 (Memcached)
 
 Установите и запустите memcached.
 
+![Задание 2](https://raw.githubusercontent.com/thereal669/netology-redis-memcached/main/pics/task2_memcached_install.jpg)
 
 ---
 
 ### Задание 3 (Удаление по TTL в Memcached)
 
 Запишите в memcached несколько ключей с любыми именами и значениями, для которых выставлен TTL 5.
+
+![Задание 3](https://raw.githubusercontent.com/thereal669/netology-redis-memcached/main/pics/task3_ttl.jpg)
 
 ---
 
@@ -37,5 +38,6 @@
 
 Запишите в Redis несколько ключей с любыми именами и значениями.
 
+![Задание 4](https://raw.githubusercontent.com/thereal669/netology-redis-memcached/main/pics/task4_redis.jpg)
 
 ---
